@@ -9,7 +9,7 @@ I push 1 C program daily for placement preparation
 | No. | File Name | Concept |
 |---|---|---|
 | 01 | 01-hello.c | Basics |
-| 03 | 02-two-numbers.c | Input Output, Addition |
+| 02 | 02-two-numbers.c | Input Output, Addition |
 | 03 | 03-even_odd.c | If-Else Condition |
 | 04 | 04-positive_negative.c | Conditions |
 | 05 | 05-largest-of-2.c | Logic |
