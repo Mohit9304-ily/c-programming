@@ -16,6 +16,7 @@ I push 1 C program daily for placement preparation
 | 06 | 06-simple_calculator.c | Switch |
 | 07 | 07-table.c | For Loop |
 | 08 | 08-factorial.c | Loop |
+| 09 | 09-sum_1_to_n.c | for loop 1 to n |
 
 > New program are added daily - check commit historymfor latest.
 
