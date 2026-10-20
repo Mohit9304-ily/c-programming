@@ -18,6 +18,7 @@ I push 1 C program daily for placement preparation
 | 08 | 08-factorial.c | Loop |
 | 09 | 09-sum_1_to_n.c | for loop 1 to n |
 | 10 | 10-fibonacci.c | Fibonacci Series |
+| 11 | 11-prime_number.c | Check Prime Number |
 
 > New program are added daily - check commit historymfor latest.
 
